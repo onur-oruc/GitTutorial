@@ -10,5 +10,6 @@ public class Main {
         String str = "";
 
         System.out.println("hello");
+        System.out.println(x);
     }
 }
