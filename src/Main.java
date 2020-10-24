@@ -7,5 +7,6 @@ public class Main {
 
         int x = 4;
         double y = 4;
+        String str = "";
     }
 }
