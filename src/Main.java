@@ -6,5 +6,6 @@ public class Main {
         System.out.println("selam adem");
 
         int x = 4;
+        double y = 4;
     }
 }
