@@ -5,5 +5,6 @@ public class Main {
         System.out.println("selam bebeq");
         System.out.println("selam adem");
 
+        int x = 4;
     }
 }
